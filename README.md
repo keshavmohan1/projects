@@ -1,1 +1,1 @@
-# projects
+# Password Generator Project
